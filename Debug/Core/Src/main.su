@@ -1,0 +1,13 @@
+main.c:163:5:main	16	static,ignoring_inline_asm
+main.c:235:6:LoraMacProcessNotify	8	static
+main.c:241:13:LORA_HasJoined	8	static
+main.c:249:13:Send	72	static
+main.c:369:13:LORA_RxData	16	static
+main.c:440:13:OnTxTimerEvent	16	static
+main.c:448:13:LoraStartTx	48	static
+main.c:471:13:LORA_ConfirmClass	16	static
+main.c:483:13:LORA_TxNeeded	8	static
+main.c:496:9:LORA_GetBatteryLevel	24	static
+main.c:520:13:HAL_UART_RxCpltCallback	16	static
+main.c:536:7:Analog	8	static
+main.c:553:13:OnTimerLedEvent	16	static

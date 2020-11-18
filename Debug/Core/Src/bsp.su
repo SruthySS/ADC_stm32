@@ -1,0 +1,2 @@
+bsp.c:65:6:BSP_sensor_Read	32	static
+bsp.c:86:7:BSP_sensor_Init	8	static
